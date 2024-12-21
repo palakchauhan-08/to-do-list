@@ -1,0 +1,35 @@
+body{
+    background-color: yellowgreen;
+    
+}
+*{
+    font-size: large;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: blanchedalmond;
+}
+#all{
+    
+    padding: 100px;
+    margin-left: 400px;
+}
+h1{
+    text-align: center;
+    font-size: 50px;
+}  
+#addTaskBtn{
+    color: aqua;
+}
+#deleteTaskBtn{
+    color: aqua;
+}
+#addTaskBtn:hover{
+    color: blueviolet;
+}
+#deleteTaskBtn:hover{
+    color: blueviolet;
+}
+#input-task:hover{
+    border-color: blue;
+    border-width: 5px;
+
+}
